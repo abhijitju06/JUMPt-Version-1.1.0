@@ -1,8 +1,8 @@
 # JUMPt
 
-> **⚠️ Important:** This repository is for **JUMPt v1.1.0**.  
-> The latest is **JUMPt v1.1.1** → **[Go to the new repository](https://github.com/<org-or-user>/JUMPt-Version-1.1.1)**.  
-> Use v1.1.1 for deterministic initialization and the Python implementation.
+> **⚠️ Important:** This repository is for **JUMPt Version 1.1.0**.  
+> The latest is **JUMPt Version 1.1.1** → **[Go to the new repository](https://github.com/abhijitju06/JUMPt-Version-1.1.1-)**.  
+> Use Version 1.1.1 for deterministic initialization and the Python implementation.
 
 
 
