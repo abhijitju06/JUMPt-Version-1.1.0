@@ -1,3 +1,13 @@
+# JUMPt
+
+> **⚠️ Important:** This repository is for **JUMPt v1.1.0**.  
+> The latest is **JUMPt v1.1.1** → **[Go to the new repository](https://github.com/<org-or-user>/JUMPt-Version-1.1.1)**.  
+> Use v1.1.1 for deterministic initialization and the Python implementation.
+
+
+
+
+
 # JUMPt Version 1.1.0
 ## Contents <br>
 <div align="justify"> 
